@@ -7,8 +7,11 @@
     </head>
     <body>
         <h1>adamant penguin</h1>
-        <h2>the one and only</h2>
+        <h2 class="centre">the one and only</h2>
         <p class="centre">by the way if this looks ugly please tell your browser to load the insecure stylesheet thanks</p>
-        <button class="rounded button" onclick="document.getElementsByTagName('html')[0].requestFullscreen();">enter fullscreen</button>
+        <div class="rounded container">
+            <button class="rounded centre button" onclick="document.getElementsByTagName('html')[0].requestFullscreen();">enter fullscreen</button>
+            <button class="rounded centre button" onclick="document.exitFullscreen()">exit fullscreen</button>
+        </div>
     </body>
 </html>
