@@ -17,11 +17,14 @@
     <body>
         <h1>Bookmarklets</h1>
         <h2 class="centre">Drag one of these onto your bookmarks bar and click it to use it</h2>
-        <a title="Unlock" href="javascript:(function(){document.getElementsByTagName('body')[0].contentEditable = 'true'}) ()" class="rounded centre button">
-            <div>Set &lt;body&gt; element's contenteditable attribute to true</div>
-        </a>
-        <a title="Lock" href="javascript:(function(){document.getElementsByTagName('body')[0].contentEditable = 'false'}) ()" class="rounded centre button">
-            <div>Set &lt;body&gt; element's contenteditable attribute to false</div>
-        </a>
+        <div class="rounded container">
+            Set &lt;body&gt; element's contenteditable attribute to true
+            <a title="Unlock" href="javascript:(function(){document.getElementsByTagName('body')[0].contentEditable = 'true'}) ()" class="rounded centre button">
+                Unlock
+            </a><br>
+            Set &lt;body&gt; element's contenteditable attribute to false
+            <a title="Lock" href="javascript:(function(){document.getElementsByTagName('body')[0].contentEditable = 'false'}) ()" class="rounded centre button">
+                Lock
+             </a></div>
     </body>
 </html>
