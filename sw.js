@@ -1,4 +1,4 @@
-var CACHE_NAME = 'adamantpenguin-cache-v1';
+var CACHE_NAME = 'adamantpenguin-cache-v2';
 var urlsToCache = [
   '/',
 ];
