@@ -1,10 +1,14 @@
 {
     "test": {
         "description": "Test library (doesn't exist)",
+        "author": "nobody",
+        "homepage": "https://example.com",
         "url": "https://example.com/blocks.xml"
     },
     "file-import": {
         "description": "Import files from local storage",
+        "author": "pumpkinhead",
+        "homepage": "https://forum.snap.berkeley.edu/u/pumpkinhead",
         "url": "https://onedrive.live.com/download?cid=0AD44A054613206A&resid=AD44A054613206A%2180509&authkey=AGurf3C5GgQpb00"
     }
 }
