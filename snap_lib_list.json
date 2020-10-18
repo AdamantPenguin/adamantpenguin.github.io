@@ -2,5 +2,9 @@
     "test": {
         "description": "Test library (doesn't exist)",
         "url": "https://example.com/blocks.xml"
+    },
+    "file-import": {
+        "description": "Import files from local storage",
+        "url": "https://onedrive.live.com/download?cid=0AD44A054613206A&resid=AD44A054613206A%2180509&authkey=AGurf3C5GgQpb00"
     }
 }
