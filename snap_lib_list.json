@@ -1,0 +1,6 @@
+{
+    "test": {
+        "description": "Test library (doesn't exist)",
+        "url": "https://example.com/blocks.xml"
+    }
+}
