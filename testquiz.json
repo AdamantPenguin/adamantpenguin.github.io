@@ -1,0 +1,11 @@
+{
+    "meta": {
+        "title": "internet-loaded example quiz",
+        "author": "AdamantPenguin"
+    },
+    "questions": [
+        {"t": "Who is Jeff Bezos?", "a1": "Amazon man", "a2": "Google man", "a3": "Apple woman", "a4": "YouTube Algorithm", "ca": 1},
+        {"t": "What is the meaning of life, the universe and everything?", "a1": "potato chip", "a2": "potato _crisp_", "a3": "lemon", "a4": "42", "ca": 4},
+        {"t": "What continent is England in?", "a1": "London", "a2": "Asia", "a3": "Europe", "a4": "Great Britain", "ca": 3}
+    ]
+}
